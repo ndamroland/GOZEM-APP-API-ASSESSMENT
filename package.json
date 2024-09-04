@@ -1,5 +1,8 @@
 {
   "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.1.2",
+    "@cucumber/cucumber": "^10.9.0",
+    "allure-commandline": "^2.30.0",
     "cypress": "^13.14.1"
   },
   "name": "gozem-app-api-assessment",
